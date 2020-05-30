@@ -1,10 +1,10 @@
 # Site settings
-title: My Blog
+title: XiaoDu's Blog
 SEOTitle: 小杜的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
 email: 18310399962@163.com
 description: "Every failure is leading towards success."
-keyword: "MY, MY Blog, 小杜的博客, 杜小慧, 杜小慧, iOS, Apple, iPhone"
+keyword: "xiaodu, XiaoDu's Blog, 小杜的博客, xiaodu, 小杜, iOS, Apple, iPhone"
 url: "http://xiaodu-Hub.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/xiaodu-Hub/xiaodu-Hub.github.io.git" # you code repository
@@ -18,11 +18,11 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
+# weibo_username:     
 zhihu_username:     xiaodu
 github_username:    xiaodu-Hub
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
+facebook_username:  
+jianshu_username:   7181d061edc9
 #twitter_username:   qiubaiying
 
 
