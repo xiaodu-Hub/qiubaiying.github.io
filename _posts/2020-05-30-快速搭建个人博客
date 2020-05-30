@@ -1,0 +1,16 @@
+---
+layout: post
+title:  快速搭建个人博客
+subtitle: 手把手教你在办个小时搭建自己的个人博客(不采坑的话,可以完成的,加油!!)
+date: 2020-05-30
+author: BY XiaoDu
+header-img: img/post-bg-2015.jpg
+catalog:  true
+tags:
+  - Blog
+---
+
+>前人栽树，后人乘凉。
+
+# 前言
+从Jekyll，到GitHub Pages中间踩了许多坑，终于把BY Blog搭建出来了。。。
